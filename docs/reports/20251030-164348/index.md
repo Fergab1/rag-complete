@@ -1,0 +1,1 @@
+- [Q9] What are the strategic priorities for the next year? -> 09-What-are-the-strategic-priorities-for-the-next-year.md

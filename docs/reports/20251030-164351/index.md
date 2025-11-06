@@ -1,0 +1,1 @@
+- [Q10] How is the company's business segmented? -> 10-How-is-the-company-s-business-segmented.md

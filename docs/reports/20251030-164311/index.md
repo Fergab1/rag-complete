@@ -1,0 +1,1 @@
+- [Q3] How much did the company spend on research and development in 2024? -> 03-How-much-did-the-company-spend-on-research-and-development-in-2024.md

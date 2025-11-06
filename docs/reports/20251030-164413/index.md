@@ -1,0 +1,1 @@
+- [Q16] What strategic partnerships are referenced? -> 16-What-strategic-partnerships-are-referenced.md
